@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task4</string>
+    <string name="computer_name_example">Apple I</string>
+    <string name="computer_summary_example">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur nec ante mi. Ut tempor placerat leo in mollis. Proin in pulvinar ligula, at fermentum nisl. Integer hendrerit mollis ligula, eget interdum nulla luctus eu. Vivamus lacinia, est eget varius interdum, nisl ligula rhoncus est, vitae consectetur velit orci sit amet ex. Nulla quis nisi erat. Nullam vel sollicitudin lectus. Quisque mattis sapien ac nulla venenatis, sollicitudin pretium sapien volutpat. Curabitur ullamcorper ipsum vel lectus tristique, id sollicitudin nulla tristique. Curabitur ac elementum tortor.</string>
+    <string name="computer_release_date_example">11 December 2001</string>
+    <string name="computer_release_date_title">Release Date</string>
+    <string name="computer_introductory_price_example">US$666.66</string>
+    <string name="computer_introductory_price_title">Introductory Price</string>
+    <string name="computer_developer_title">Developer</string>
+    <string name="computer_developer_example">Steve Wozniak &amp; Steve Jobs</string>
+    <string name="vintage_computers">Vintage Computers</string>
+    <string name="more_information">More Information</string>
+</resources>
