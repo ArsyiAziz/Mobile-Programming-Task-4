@@ -75,7 +75,7 @@ public class ComputerDatabase {
             "Apple Inc.",
             "Apple Inc.",
             "Adam Osborne",
-            "Sinclair Research &  Timex Corporation",
+            "Sinclair Research & Timex Corporation",
             "Tandy Corporation",
     };
 
